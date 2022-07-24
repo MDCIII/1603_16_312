@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:312:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:0> ;
     skos:prefLabel "Basse-Terre"@fra-Latn ;
-    wdata:q7200235 "GP01" ;
+    wdata:Q7200235 "GP01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -45,6 +45,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:312:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:0> ;
     skos:prefLabel "Pointe-à-Pitre"@fra-Latn ;
-    wdata:q7200235 "GP02" ;
+    wdata:Q7200235 "GP02" ;
 .
 

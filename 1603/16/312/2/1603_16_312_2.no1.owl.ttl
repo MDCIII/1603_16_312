@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Baie-Mahault"@fra-Latn ;
-    wdata:q7200235 "GP0101" ;
+    wdata:Q7200235 "GP0101" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -78,7 +78,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Baillif"@fra-Latn ;
-    wdata:q7200235 "GP0102" ;
+    wdata:Q7200235 "GP0102" ;
 .
 
 <urn:mdciii:1603:16:312:2:103>
@@ -90,7 +90,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Basse-Terre"@fra-Latn ;
-    wdata:q7200235 "GP0103" ;
+    wdata:Q7200235 "GP0103" ;
 .
 
 <urn:mdciii:1603:16:312:2:104>
@@ -102,7 +102,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Bouillante"@fra-Latn ;
-    wdata:q7200235 "GP0104" ;
+    wdata:Q7200235 "GP0104" ;
 .
 
 <urn:mdciii:1603:16:312:2:105>
@@ -114,7 +114,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Capesterre-Belle-Eau"@fra-Latn ;
-    wdata:q7200235 "GP0105" ;
+    wdata:Q7200235 "GP0105" ;
 .
 
 <urn:mdciii:1603:16:312:2:106>
@@ -126,7 +126,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Deshaies"@fra-Latn ;
-    wdata:q7200235 "GP0106" ;
+    wdata:Q7200235 "GP0106" ;
 .
 
 <urn:mdciii:1603:16:312:2:107>
@@ -138,7 +138,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Gourbeyre"@fra-Latn ;
-    wdata:q7200235 "GP0107" ;
+    wdata:Q7200235 "GP0107" ;
 .
 
 <urn:mdciii:1603:16:312:2:108>
@@ -150,7 +150,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Goyave"@fra-Latn ;
-    wdata:q7200235 "GP0108" ;
+    wdata:Q7200235 "GP0108" ;
 .
 
 <urn:mdciii:1603:16:312:2:109>
@@ -162,7 +162,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Lamentin"@fra-Latn ;
-    wdata:q7200235 "GP0109" ;
+    wdata:Q7200235 "GP0109" ;
 .
 
 <urn:mdciii:1603:16:312:2:110>
@@ -174,7 +174,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Petit-Bourg"@fra-Latn ;
-    wdata:q7200235 "GP0110" ;
+    wdata:Q7200235 "GP0110" ;
 .
 
 <urn:mdciii:1603:16:312:2:111>
@@ -186,7 +186,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Pointe-Noire"@fra-Latn ;
-    wdata:q7200235 "GP0111" ;
+    wdata:Q7200235 "GP0111" ;
 .
 
 <urn:mdciii:1603:16:312:2:112>
@@ -198,7 +198,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Saint-Claude"@fra-Latn ;
-    wdata:q7200235 "GP0112" ;
+    wdata:Q7200235 "GP0112" ;
 .
 
 <urn:mdciii:1603:16:312:2:113>
@@ -210,7 +210,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Sainte-Rose"@fra-Latn ;
-    wdata:q7200235 "GP0113" ;
+    wdata:Q7200235 "GP0113" ;
 .
 
 <urn:mdciii:1603:16:312:2:114>
@@ -222,7 +222,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Terre-De-Bas"@fra-Latn ;
-    wdata:q7200235 "GP0114" ;
+    wdata:Q7200235 "GP0114" ;
 .
 
 <urn:mdciii:1603:16:312:2:115>
@@ -234,7 +234,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Terre-De-Haut"@fra-Latn ;
-    wdata:q7200235 "GP0115" ;
+    wdata:Q7200235 "GP0115" ;
 .
 
 <urn:mdciii:1603:16:312:2:116>
@@ -246,7 +246,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Trois-Rivières"@fra-Latn ;
-    wdata:q7200235 "GP0116" ;
+    wdata:Q7200235 "GP0116" ;
 .
 
 <urn:mdciii:1603:16:312:2:117>
@@ -258,7 +258,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Vieux-Fort"@fra-Latn ;
-    wdata:q7200235 "GP0117" ;
+    wdata:Q7200235 "GP0117" ;
 .
 
 <urn:mdciii:1603:16:312:2:118>
@@ -270,7 +270,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:1> ;
     skos:prefLabel "Vieux-Habitants"@fra-Latn ;
-    wdata:q7200235 "GP0118" ;
+    wdata:Q7200235 "GP0118" ;
 .
 
 <urn:mdciii:1603:16:312:2:201>
@@ -282,7 +282,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Anse-Bertrand"@fra-Latn ;
-    wdata:q7200235 "GP0201" ;
+    wdata:Q7200235 "GP0201" ;
 .
 
 <urn:mdciii:1603:16:312:2:202>
@@ -294,7 +294,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Capesterre-de-Marie-Galante"@fra-Latn ;
-    wdata:q7200235 "GP0202" ;
+    wdata:Q7200235 "GP0202" ;
 .
 
 <urn:mdciii:1603:16:312:2:203>
@@ -306,7 +306,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Grand-Bourg"@fra-Latn ;
-    wdata:q7200235 "GP0203" ;
+    wdata:Q7200235 "GP0203" ;
 .
 
 <urn:mdciii:1603:16:312:2:204>
@@ -318,7 +318,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "La Désirade"@fra-Latn ;
-    wdata:q7200235 "GP0204" ;
+    wdata:Q7200235 "GP0204" ;
 .
 
 <urn:mdciii:1603:16:312:2:205>
@@ -330,7 +330,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Le Gosier"@fra-Latn ;
-    wdata:q7200235 "GP0205" ;
+    wdata:Q7200235 "GP0205" ;
 .
 
 <urn:mdciii:1603:16:312:2:206>
@@ -342,7 +342,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Le Moule"@fra-Latn ;
-    wdata:q7200235 "GP0206" ;
+    wdata:Q7200235 "GP0206" ;
 .
 
 <urn:mdciii:1603:16:312:2:207>
@@ -354,7 +354,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Les Abymes"@fra-Latn ;
-    wdata:q7200235 "GP0207" ;
+    wdata:Q7200235 "GP0207" ;
 .
 
 <urn:mdciii:1603:16:312:2:208>
@@ -366,7 +366,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Morne-à-l'Eau"@fra-Latn ;
-    wdata:q7200235 "GP0208" ;
+    wdata:Q7200235 "GP0208" ;
 .
 
 <urn:mdciii:1603:16:312:2:209>
@@ -378,7 +378,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Petit-Canal"@fra-Latn ;
-    wdata:q7200235 "GP0209" ;
+    wdata:Q7200235 "GP0209" ;
 .
 
 <urn:mdciii:1603:16:312:2:210>
@@ -390,7 +390,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Pointe-à-Pitre"@fra-Latn ;
-    wdata:q7200235 "GP0210" ;
+    wdata:Q7200235 "GP0210" ;
 .
 
 <urn:mdciii:1603:16:312:2:211>
@@ -402,7 +402,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Port-Louis"@fra-Latn ;
-    wdata:q7200235 "GP0211" ;
+    wdata:Q7200235 "GP0211" ;
 .
 
 <urn:mdciii:1603:16:312:2:212>
@@ -414,7 +414,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Saint-François"@fra-Latn ;
-    wdata:q7200235 "GP0212" ;
+    wdata:Q7200235 "GP0212" ;
 .
 
 <urn:mdciii:1603:16:312:2:213>
@@ -426,7 +426,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Saint-Louis"@fra-Latn ;
-    wdata:q7200235 "GP0213" ;
+    wdata:Q7200235 "GP0213" ;
 .
 
 <urn:mdciii:1603:16:312:2:214>
@@ -438,6 +438,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:312:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:312:1:2> ;
     skos:prefLabel "Sainte-Anne"@fra-Latn ;
-    wdata:q7200235 "GP0214" ;
+    wdata:Q7200235 "GP0214" ;
 .
 
